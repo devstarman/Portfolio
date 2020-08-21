@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.title {
+    margin: 5px;
+    font-size: 1.75em;
+}
+
+.navigation-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.navigation-list-item {
+    margin: 0 10px;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 0.9em;
+    color: rgba(0,0,0,0.4);
+}
+
+.link:hover {
+    color: rgba(0,0,0,0.9);
+}
+
+.currentRouteLink {
+    text-decoration: none;
+    font-size: 0.9em;
+    color: rgba(0,0,0,0.9);
+}
