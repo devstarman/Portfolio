@@ -8,6 +8,6 @@ Tech Stack: React, create-react-app, flexbox, CSS Grid, CSS Modules, React Route
 2. Run project with "npm start".
 
 ## Project structure
-/src/App.js - main routes configuration
-/src/components - components separated for possible reusability
+/src/App.js - main routes configuration  
+/src/components - components separated for possible reusability  
 /src/screens - components responsible for individual pages
